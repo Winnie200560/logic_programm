@@ -11,6 +11,7 @@
 ### Тестирование
 <img width="456" height="127" alt="image" src="https://github.com/user-attachments/assets/23c27a23-457c-496c-b26f-568ca11138d4" />
 <img width="476" height="138" alt="image" src="https://github.com/user-attachments/assets/42b7c8f8-8ec4-4b81-8bd5-1ebfc326e1a0" />
+
 ## Задание 2. Списки
 ### Текст задачи
 Выяснить, упорядочены ли элементы списка по возрастанию
