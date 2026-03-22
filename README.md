@@ -9,9 +9,8 @@
 2. Предикат step рекурсивно вычисляет количество шагов, необходимых для сведения числа к нулю, где на каждом шаге из числа вычитается сумма его цифр.
 3. Предикат sum_digit рекурсивно вычисляет сумму цифр числа.
 ### Тестирование
-<img width="531" height="115" alt="image" src="https://github.com/user-attachments/assets/c5be0340-c488-40d2-8a8c-364dca497dbd" />
-
-
+<img width="456" height="127" alt="image" src="https://github.com/user-attachments/assets/23c27a23-457c-496c-b26f-568ca11138d4" />
+<img width="476" height="138" alt="image" src="https://github.com/user-attachments/assets/42b7c8f8-8ec4-4b81-8bd5-1ebfc326e1a0" />
 ## Задание 2. Списки
 ### Текст задачи
 Выяснить, упорядочены ли элементы списка по возрастанию
