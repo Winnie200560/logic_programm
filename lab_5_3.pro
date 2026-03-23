@@ -3,10 +3,10 @@ DOMAINS
     
 PREDICATES
     nondeterm isMember(integer, list)
-    nondeterm intersection(list, list, list)
-    nondeterm delete(integer, list, list)
-    nondeterm listToSet(list, list)
-    nondeterm read_list(integer, list)
+    intersection(list, list, list)
+    delete(integer, list, list)
+    listToSet(list, list)
+    read_list(integer, list)
     
 CLAUSES
     isMember(X, [X|_]).
