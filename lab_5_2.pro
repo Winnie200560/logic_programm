@@ -14,7 +14,6 @@ CLAUSES
     
     read_list(0, []):-!.
     read_list(N, [H|T]):-
-        N > 0,
         write("Enter element: "),
         readint(H),
         N1 = N - 1,
