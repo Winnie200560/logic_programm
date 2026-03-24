@@ -51,5 +51,6 @@
 2. Для каждой комбинации проверяем все 4 условия.
 3. Выбор комбинации, где все 4 условия выполняются.
 ### Тестирование
-<img width="513" height="251" alt="image" src="https://github.com/user-attachments/assets/24e83ad1-9494-4e06-8558-3cea2dda5f04" />
+<img width="601" height="260" alt="image" src="https://github.com/user-attachments/assets/2d627474-cb27-4e7f-890c-a3ff289a2659" />
+
 
